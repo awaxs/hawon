@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hawon/static/css/main.3ca42fca.css",
-    "main.js": "/hawon/static/js/main.5f07ddeb.js",
+    "main.js": "/hawon/static/js/main.921fc233.js",
     "static/media/AI.jpg": "/hawon/static/media/AI.5838062ce91955ceed8c.jpg",
     "index.html": "/hawon/index.html",
     "main.3ca42fca.css.map": "/hawon/static/css/main.3ca42fca.css.map",
-    "main.5f07ddeb.js.map": "/hawon/static/js/main.5f07ddeb.js.map"
+    "main.921fc233.js.map": "/hawon/static/js/main.921fc233.js.map"
   },
   "entrypoints": [
     "static/css/main.3ca42fca.css",
-    "static/js/main.5f07ddeb.js"
+    "static/js/main.921fc233.js"
   ]
 }
